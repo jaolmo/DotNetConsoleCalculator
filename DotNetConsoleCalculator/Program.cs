@@ -1,6 +1,4 @@
 ﻿string opcion="";
-//CalculadoraUI.MostrarMenu();
-//opcion = Console.ReadLine();
 do 
 {
     var operador = CalculadoraUI.EscogerOperador(opcion!);
